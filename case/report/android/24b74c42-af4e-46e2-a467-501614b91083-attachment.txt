@@ -1,0 +1,3 @@
+ERROR    root:BasePage.py:44 未找到元素：//*[contains(@text,'Vivachek Pro')] 请检查！
+ERROR    root:BasePage.py:46 已截图，路径：screen_shot/a_20211109153039.png
+ERROR    root:BasePage.py:106 未找到元素：//*[contains(@text,'Vivachek Pro')] 请检查！

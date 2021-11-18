@@ -1,0 +1,11 @@
+﻿appium_config:
+  #配置appium启动参数
+  appium_start_cmd: "appium"
+  remote_URL: "http://127.0.0.1:4723/wd/hub"
+  platformName: "Android"
+  deviceName: "359B0000360"
+  platformVersion: "7.0"
+  appPackage: "com.vivachek.nova.tnineeightzeroone"
+  appActivity: "com.vivachek.t9801.MainActivity"
+  unicodeKeyboard: True
+  resetKeyboard: True

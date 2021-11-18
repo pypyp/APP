@@ -1,0 +1,5 @@
+allure_environment:
+  URL:
+  description:
+  username:
+  version:

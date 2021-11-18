@@ -1,0 +1,14 @@
+2021-11-09 15:22:27 - BasePage.py[line:93]- ERROR - 未找到元素：账号或者密码错误 请检查！
+2021-11-09 15:22:28 - BasePage.py[line:95]- ERROR - 已截图，路径：screen_shot/a_20211109152227.png
+2021-11-09 15:29:36 - BasePage.py[line:93]- ERROR - 未找到元素：账号或者密码错误 请检查！
+2021-11-09 15:29:37 - BasePage.py[line:95]- ERROR - 已截图，路径：screen_shot/a_20211109152936.png
+2021-11-09 15:29:50 - BasePage.py[line:93]- ERROR - 未找到元素：账号或者密码错误 请检查！
+2021-11-09 15:29:51 - BasePage.py[line:95]- ERROR - 已截图，路径：screen_shot/a_20211109152950.png
+2021-11-09 15:30:05 - BasePage.py[line:93]- ERROR - 未找到元素：账号或者密码错误 请检查！
+2021-11-09 15:30:06 - BasePage.py[line:95]- ERROR - 已截图，路径：screen_shot/a_20211109153005.png
+2021-11-09 15:30:19 - BasePage.py[line:93]- ERROR - 未找到元素：账号或者密码错误 请检查！
+2021-11-09 15:30:20 - BasePage.py[line:95]- ERROR - 已截图，路径：screen_shot/a_20211109153019.png
+2021-11-09 15:30:39 - BasePage.py[line:44]- ERROR - 未找到元素：//*[contains(@text,'Vivachek Pro')] 请检查！
+2021-11-09 15:30:39 - BasePage.py[line:46]- ERROR - 已截图，路径：screen_shot/a_20211109153039.png
+2021-11-09 15:30:39 - BasePage.py[line:106]- ERROR - 未找到元素：//*[contains(@text,'Vivachek Pro')] 请检查！
+2021-11-09 15:30:42 - test_login.py[line:38]- INFO - 启动app
